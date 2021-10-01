@@ -1,9 +1,0 @@
-.centered {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-family: 'Architects Daughter', cursive;
-    font-size: 64px;
-    color: #DD1C1A;
-  }
